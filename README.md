@@ -14,4 +14,4 @@ The actions act on the functions:
 - BP1 + BP2 -> Long press = yellow LED ON / OFF.
 
 On schematic I use ULN2803 to drive the leds (not Nano output drive directly) and to avoid bouncing I use
-Capacitor and Schmitt Trigger like SN74HC14 circuit.
+Capacitor and Schmitt Trigger like SN74LS540 circuit.
