@@ -15,3 +15,5 @@ The actions act on the functions:
 
 On schematic I use ULN2803 to drive the leds (not Nano output drive directly) and to avoid bouncing I use
 Capacitor and Schmitt Trigger like SN74LS540 circuit.
+
+Here a video to demonstrate : https://www.youtube.com/watch?v=q4xoW6Mg_0E
